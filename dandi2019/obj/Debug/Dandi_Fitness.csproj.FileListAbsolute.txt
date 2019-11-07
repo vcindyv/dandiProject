@@ -1,0 +1,307 @@
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\App.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\ChoicePage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\DiaryPage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\HomePage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\JoinPage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\LoginPage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Training2Page.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Training3Page.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\TrainingPage.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\ChoicePage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\DiaryPage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\HomePage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\JoinPage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\LoginPage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\TrainingPage.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Training2Page.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Training3Page.baml
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\waii\Desktop\BodyBasics-WPF\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\resources\sitdown.wmv
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\resources\train_data.mp4
+C:\Users\waii\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\resources\train_data2.mp4
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\resources\train_data.mp4
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\resources\train_data2.mp4
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\resources\sitdown.wmv
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\waii\Desktop\Dandi-WPF\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\MainWindow.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\App.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\ChoicePage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\DiaryPage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\HomePage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\JoinPage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\LoginPage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Training2Page.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Training3Page.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\TrainingPage.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\App.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\ChoicePage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\DiaryPage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\HomePage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\JoinPage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\LoginPage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Training2Page.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Training3Page.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\TrainingPage.baml
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\waii\Desktop\Dandi-WPF\obj\Debug\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\MainWindow.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\App.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\ChoicePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\DiaryPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\HomePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\JoinPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\LoginPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\MainWindow.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Training2Page.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Training3Page.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\TrainingPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\App.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\ChoicePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\DiaryPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\HomePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\JoinPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\LoginPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Training2Page.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Training3Page.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\TrainingPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Dandi_Fitness.csproj.GenerateResource.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Dandi_Fitness.csproj.CoreCompileInputs.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\Dandi_Fitness.csproj.CopyComplete
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\traindata.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\MySql.Data.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\Google.Protobuf.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\MySql.Data.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train1_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train2_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train3_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train4_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train5_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\resources\train6_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\DiaryChoicePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Debug\DiaryChoicePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF.exe
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train2_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train3_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train4_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train5_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train6_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\train1_after.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\resources\traindata.mp4
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\Google.Protobuf.dll
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\MySql.Data.xml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\MainWindow.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\App.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\ChoicePage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\DiaryChoicePage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\DiaryPage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\HomePage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\JoinPage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\LoginPage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\MainWindow.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Training2Page.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Training3Page.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\TrainingPage.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\App.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\ChoicePage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\DiaryChoicePage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\DiaryPage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\HomePage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\JoinPage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\LoginPage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Training2Page.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Training3Page.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\TrainingPage.baml
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\ehks9\Desktop\Dandi-WPF-Recent\obj\Debug\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF.exe
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train2_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train3_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train4_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train5_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train6_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train1_after.mp4
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\Google.Protobuf.dll
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.pdb
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.xml
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.pdb
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.xml
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\MySql.Data.xml
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\ehks9\Desktop\dandi2019\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\MainWindow.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\App.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\ChoicePage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\DiaryChoicePage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\DiaryPage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\Feedback.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\FitInfoPage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\HomePage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\JoinPage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\LoginPage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\MainWindow.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\TrainingPage.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\App.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\ChoicePage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\DiaryChoicePage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\DiaryPage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\Feedback.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\FitInfoPage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\HomePage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\JoinPage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\LoginPage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\TrainingPage.baml
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\ehks9\Desktop\dandi2019\obj\Debug\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\waii\Desktop\dandi2019\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\waii\Desktop\dandi2019\obj\Debug\BodyBasics-WPF.exe
+C:\Users\waii\Desktop\dandi2019\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train2_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train3_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train4_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train5_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train6_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\resources\train1_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\Newtonsoft.Json.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Extensions.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Formatting.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\System.Net.Http.Primitives.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\Google.Protobuf.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\LiveCharts.Wpf.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\MySql.Data.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\Newtonsoft.Json.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\dandi2019\obj\Debug\MainWindow.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\App.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\ChoicePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DiaryChoicePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DiaryPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\Feedback.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\FitInfoPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\HomePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\JoinPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\LoginPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\MainWindow.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\TrainingPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\App.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\ChoicePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DiaryChoicePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DiaryPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\Feedback.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\FitInfoPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\HomePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\JoinPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\LoginPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\TrainingPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Master\Desktop\dandi2019\obj\Debug\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\DandiFitness.exe.config
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\DandiFitness.exe
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Debug\DandiFitness.pdb
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness_Content.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness_MarkupCompile.cache
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness_MarkupCompile.lref
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness.g.resources
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness.exe
+C:\Users\Master\Desktop\dandi2019\obj\Debug\DandiFitness.pdb

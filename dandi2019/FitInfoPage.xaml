@@ -1,0 +1,36 @@
+﻿<Page x:Class="Microsoft.Samples.Kinect.BodyBasics.FitInfoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Microsoft.Samples.Kinect.BodyBasics"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1500"
+      Title="FitInfoPage">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/resources/back.png" Stretch="UniformToFill"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="750*"/>
+            <ColumnDefinition Width="750*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Fill="AliceBlue" Stretch="UniformToFill" HorizontalAlignment="Left" Height="810"  VerticalAlignment="Top" Width="1510" Opacity="0.15" Margin="-9,-10,-0.2,0" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_1" Content="&lt; 운동 설명 &gt;" HorizontalAlignment="Left" Margin="267,38.4,0,0" VerticalAlignment="Top" FontSize="36" Height="52" Width="276" FontFamily="12LotteMartDreamBold" Grid.Row="1" Grid.Column="1"/>
+        <MediaElement Grid.Row="1" Grid.Column="0" x:Name="FitInfoMedia" LoadedBehavior="Manual" Margin="175,99.4,127,195"/>
+        <Rectangle Grid.Column="1" Fill="Yellow" Opacity="0.2" HorizontalAlignment="Left" Height="467" Margin="95,95.4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="570"/>
+        <TextBlock x:Name="FitInfoText" Grid.Row="1" Padding="30" Background="Transparent" FontSize="25" TextWrapping="Wrap"  Margin="93,94.4,86,189" Grid.Column="1" FontFamily="12LotteMartDreamMedium"/>
+        <Label x:Name="label" Content="몇 세트 도전하실래요?" FontSize="35" HorizontalAlignment="Left" Margin="398,667.4,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="12LotteMartDreamMedium"/>
+
+        <TextBox x:Name="set_num" HorizontalAlignment="Left" FontSize="35" Height="50" Margin="743,664.4,0,0" Grid.Row="1" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="133" Opacity="0.8" Grid.ColumnSpan="2" FontFamily="12LotteMartDreamMedium"/>
+
+        <Button x:Name="btn_goto_training" Content="세트 도전" HorizontalAlignment="Left" Height="50" Margin="136,664.4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="173" FontSize="30" Grid.Column="1" Style="{StaticResource RoundButtonTemplate}"  FontFamily="12LotteMartDreamMedium" Click="btn_goto_training_Click" RenderTransformOrigin="0.649,1.543"/>
+        <Button x:Name="btn_goto_choice" Content="운동 재선택" Grid.Column="1" HorizontalAlignment="Left" Margin="482,657.4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="189" Height="53" FontSize="25" Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium"  Click="btn_goto_choice_Click"/>
+        <Label x:Name="label_" Content="&lt; 운동 영상 &gt;" HorizontalAlignment="Left" Margin="276,33.4,0,0" VerticalAlignment="Top" FontSize="36" Height="52" Width="276" FontFamily="12LotteMartDreamBold" Grid.Row="1"/>
+    </Grid>
+</Page>

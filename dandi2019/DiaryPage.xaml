@@ -1,0 +1,28 @@
+﻿<Page x:Class="Microsoft.Samples.Kinect.BodyBasics.DiaryPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Microsoft.Samples.Kinect.BodyBasics"
+      mc:Ignorable="d"
+      xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+ d:DesignHeight="800" d:DesignWidth="1500"
+      Background="White"
+      Title="DiaryPage">
+
+    <Grid>
+        <lvc:CartesianChart Width="1400" Height="520" Series="{Binding SeriesCollection}" LegendLocation="Left">
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Labels="{Binding Labels}" FontSize="15" />
+            </lvc:CartesianChart.AxisX>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis MaxValue="100"/>
+            </lvc:CartesianChart.AxisY>
+        </lvc:CartesianChart>
+        <Rectangle Fill="Yellow" HorizontalAlignment="Left" Height="62" Margin="1307,721,0,0" RadiusY="15" RadiusX="15" VerticalAlignment="Top" Width="135" Opacity="0.4"/>
+        <Image Source="resources/home.png" Margin="1321,733,143,13" RenderTransformOrigin="-0.033,0.579"></Image>
+
+        <Button x:Name="Btn_goto_home" Content="      홈" HorizontalAlignment="Left" Height="62" Margin="1308,721,0,0" VerticalAlignment="Top" Width="135" FontSize="25" Click="Btn_goto_home_Click" Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,39 @@
+﻿<Page x:Class="Microsoft.Samples.Kinect.BodyBasics.DiaryChoicePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Microsoft.Samples.Kinect.BodyBasics"
+      mc:Ignorable="d" 
+     d:DesignHeight="800" d:DesignWidth="1500"
+      
+      Background="White"
+      Title="DiaryChoicePage">
+
+
+    <!--복붙해도 될 것가타!! -->
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="resources/back.png" Stretch="UniformToFill"></ImageBrush>
+        </Grid.Background>
+
+        <Rectangle Fill="AliceBlue" HorizontalAlignment="Left" Height="800"  VerticalAlignment="Top" Width="1500" Opacity="0.15"/>
+        <Button x:Name="Btn_training_choice" Content="나비운동" HorizontalAlignment="Left" Margin="345,215,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35" Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training_choice_Click"/>
+        <Button x:Name="Btn_training2_choice" Content="다리운동" HorizontalAlignment="Left" Margin="345,340,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training2_choice_Click"/>
+        <Button x:Name="Btn_training3_choice" Content="옆구리운동" HorizontalAlignment="Left" Margin="345,474,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training3_choice_Click"/>
+        <Button x:Name="Btn_training4_choice" Content="발레스쿼트" HorizontalAlignment="Left" Margin="768,215,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training4_choice_Click"/>
+        <Button x:Name="Btn_training5_choice" Content="꽃게운동" HorizontalAlignment="Left" Margin="768,340,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training5_choice_Click"/>
+        <Button x:Name="Btn_training6_choice" Content="PT체조" HorizontalAlignment="Left" Margin="768,474,0,0" VerticalAlignment="Top" Width="369" Height="103" FontSize="35"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_training6_choice_Click"/>
+        <Button x:Name="Btn_goto_home" Content="     홈" HorizontalAlignment="Left" Height="76" Margin="345,637,0,0" VerticalAlignment="Top" Width="155" FontSize="25"  Style="{StaticResource RoundButtonTemplate}" FontFamily="12LotteMartDreamMedium" Click="Btn_goto_home_Click"/>
+
+        <Image Source="resources/home.png" Margin="361,654,1093,90"></Image>
+
+        <Image Source="resources/navi.png" Margin="375,235,1061,495"></Image>
+        <Image Source="resources/velly.png" Margin="361,490,1072,233"></Image>
+        <Image Source="resources/crab.png" Margin="799,355,643,379"></Image>
+        <Image Source="resources/pt.png" Margin="799,490,643,233"></Image>
+        <Image Source="resources/ballet.png" Margin="799,233,643,497"></Image>
+        <Image Source="resources/leg.png" Margin="375,355,1051,361"></Image>
+        <Label x:Name="label_" Content="&lt; 운동일기를 선택하세요 &gt;" HorizontalAlignment="Left" Margin="570,86,0,0" VerticalAlignment="Top" FontSize="36" Height="52" Width="525" FontFamily="12LotteMartDreamMedium"/>
+    </Grid>
+</Page>

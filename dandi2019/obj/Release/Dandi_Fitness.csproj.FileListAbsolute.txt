@@ -1,0 +1,275 @@
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train2_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train3_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train4_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train5_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train6_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train1_after.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\resources\traindata.mp4
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\MySql.Data.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Extensions.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Formatting.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Primitives.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\Google.Protobuf.dll
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\MySql.Data.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\MainWindow.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\App.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\ChoicePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\DiaryChoicePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\DiaryPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\HomePage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\JoinPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\LoginPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\MainWindow.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Training2Page.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Training3Page.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\TrainingPage.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\App.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_Content.g.cs
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\ChoicePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\DiaryChoicePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\DiaryPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\HomePage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\JoinPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\LoginPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Training2Page.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Training3Page.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\TrainingPage.baml
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.GenerateResource.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.CoreCompileInputs.cache
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.CopyComplete
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.pdb
+C:\Users\yooha\Desktop\두견\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train2_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train3_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train4_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train5_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train6_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\train1_after.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\resources\traindata.mp4
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\MySql.Data.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Extensions.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Formatting.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\System.Net.Http.Primitives.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\Google.Protobuf.dll
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\MySql.Data.xml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\MainWindow.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\App.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\ChoicePage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\DiaryChoicePage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\DiaryPage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\HomePage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\JoinPage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\LoginPage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\MainWindow.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Training2Page.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Training3Page.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\TrainingPage.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\App.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_Content.g.cs
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF_MarkupCompile.lref
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\ChoicePage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\DiaryChoicePage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\DiaryPage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\HomePage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\JoinPage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\LoginPage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Training2Page.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Training3Page.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\TrainingPage.baml
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.GenerateResource.cache
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.CoreCompileInputs.cache
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\Dandi_Fitness.csproj.CopyComplete
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.exe
+C:\Users\yooha\Desktop\단디\Dandi-WPF (2)\obj\Release\BodyBasics-WPF.pdb
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train2_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train3_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train4_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train5_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train6_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\resources\train1_after.mp4
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\MySql.Data.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\Newtonsoft.Json.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\System.Net.Http.Extensions.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\System.Net.Http.Formatting.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\System.Net.Http.Primitives.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\Google.Protobuf.dll
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\MySql.Data.xml
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\Newtonsoft.Json.xml
+C:\yuha_workspace\dandi2019\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\yuha_workspace\dandi2019\obj\Release\Dandi_Fitness.csprojResolveAssemblyReference.cache
+C:\yuha_workspace\dandi2019\obj\Release\MainWindow.baml
+C:\yuha_workspace\dandi2019\obj\Release\App.baml
+C:\yuha_workspace\dandi2019\obj\Release\ChoicePage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\DiaryChoicePage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\DiaryPage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\HomePage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\JoinPage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\LoginPage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\MainWindow.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\TrainingPage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\App.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF_Content.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF_MarkupCompile.lref
+C:\yuha_workspace\dandi2019\obj\Release\ChoicePage.baml
+C:\yuha_workspace\dandi2019\obj\Release\DiaryChoicePage.baml
+C:\yuha_workspace\dandi2019\obj\Release\DiaryPage.baml
+C:\yuha_workspace\dandi2019\obj\Release\HomePage.baml
+C:\yuha_workspace\dandi2019\obj\Release\JoinPage.baml
+C:\yuha_workspace\dandi2019\obj\Release\LoginPage.baml
+C:\yuha_workspace\dandi2019\obj\Release\TrainingPage.baml
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF.g.resources
+C:\yuha_workspace\dandi2019\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\yuha_workspace\dandi2019\obj\Release\Dandi_Fitness.csproj.GenerateResource.cache
+C:\yuha_workspace\dandi2019\obj\Release\Dandi_Fitness.csproj.CoreCompileInputs.cache
+C:\yuha_workspace\dandi2019\obj\Release\Dandi_Fitness.csproj.CopyComplete
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF.exe
+C:\yuha_workspace\dandi2019\obj\Release\BodyBasics-WPF.pdb
+C:\yuha_workspace\dandi2019\obj\Release\FitInfoPage.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\FitInfoPage.baml
+C:\yuha_workspace\dandi2019\obj\Release\Feedback.g.cs
+C:\yuha_workspace\dandi2019\obj\Release\Feedback.baml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\DandiFitness.exe.config
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train2_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train3_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train4_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train5_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train6_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\resources\train1_after.mp4
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\DandiFitness.exe
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\DandiFitness.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.Wpf.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\System.Net.Http.Extensions.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\System.Net.Http.Formatting.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\System.Net.Http.Primitives.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.Wpf.pdb
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\LiveCharts.Wpf.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\Master\Desktop\dandi2019\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Master\Desktop\dandi2019\obj\Release\MainWindow.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\App.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\ChoicePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\DiaryChoicePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\DiaryPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\Feedback.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\FitInfoPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\HomePage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\JoinPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\LoginPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\MainWindow.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\TrainingPage.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\App.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness_Content.g.cs
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness_MarkupCompile.cache
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness_MarkupCompile.lref
+C:\Users\Master\Desktop\dandi2019\obj\Release\ChoicePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\DiaryChoicePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\DiaryPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\Feedback.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\FitInfoPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\HomePage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\JoinPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\LoginPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\TrainingPage.baml
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness.g.resources
+C:\Users\Master\Desktop\dandi2019\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Master\Desktop\dandi2019\obj\Release\Dandi_Fitness.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness.exe
+C:\Users\Master\Desktop\dandi2019\obj\Release\DandiFitness.pdb
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train2_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train3_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train4_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train5_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train6_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\resources\train1_after.mp4
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\DandiFitness.exe.config
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\DandiFitness.exe
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\DandiFitness.pdb
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.Wpf.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\MySql.Data.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\System.Net.Http.Extensions.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\System.Net.Http.Formatting.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\System.Net.Http.Primitives.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\Google.Protobuf.dll
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.pdb
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.Wpf.pdb
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\LiveCharts.Wpf.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\MySql.Data.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\bin\AnyCPU\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\MainWindow.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\App.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\ChoicePage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DiaryChoicePage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DiaryPage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Feedback.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\FitInfoPage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\HomePage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\JoinPage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\LoginPage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\MainWindow.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\TrainingPage.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\App.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness_Content.g.cs
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness_MarkupCompile.cache
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness_MarkupCompile.lref
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\ChoicePage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DiaryChoicePage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DiaryPage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Feedback.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\FitInfoPage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\HomePage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\JoinPage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\LoginPage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\TrainingPage.baml
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness.g.resources
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Dandi_Fitness.csproj.GenerateResource.cache
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Dandi_Fitness.csproj.CoreCompileInputs.cache
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\Dandi_Fitness.csproj.CopyComplete
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness.exe
+C:\Users\yooha\Desktop\dandi2019 (4)\obj\Release\DandiFitness.pdb
